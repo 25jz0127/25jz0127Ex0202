@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Ex0202</string>
+
+    <string name="title_form">登録フォーム</string>
+    <string name="label_name">氏名</string>
+    <string name="label_age">年齢</string>
+    <string name="label_phone">電話番号</string>
+    <string name="label_email">メールアドレス</string>
+    <string name="label_school_type">学校種類</string>
+    <string name="label_agree">私は本サービスの利用規約に同意します</string>
+    <string name="btn_send">送信</string>
+
+    <string name="radio_vocation">専門学校</string>
+    <string name="radio_univ">専門職大学</string>
+
+    <string-array name="course_array">
+        <item>情報処理科</item>
+        <item>情報システム開発科</item>
+        <item>高度情報処理科</item>
+        <item>DXスペシャリスト科</item>
+        <item>モバイルアプリケーション開発科</item>
+        <item>Webデザイン科</item>
+    </string-array>
+</resources>
